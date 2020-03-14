@@ -21,28 +21,28 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td>74</td>
       <td>?</td>
       <td>?</td>
-      <td>[Link](http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/-/content-view/view/1228409)</td>
+      <td><a href="http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/-/content-view/view/1228409">Link</a></td>
     </tr>
     <tr>
       <td>12/03</td>
       <td>102</td>
       <td>28</td>
       <td>38%</td>
-      <td>[Link](http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/-/content-view/view/1229047)</td>
+      <td><a href="http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/-/content-view/view/1229047">Link</a></td>
     </tr>
     <tr>
       <td>13/03</td>
       <td>157</td>
       <td>55</td>
       <td>54%</td>
-      <td>[Link](http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/-/content-view/view/1226619)</td>
+      <td><a href="http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/-/content-view/view/1226619">Link</a></td>
     </tr>
     <tr>
       <td>14/03</td>
       <td>199</td>
       <td>42</td>
       <td>27%</td>
-      <td>[Link](http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/-/content-view/view/1230113)</td>
+      <td><a href="http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/-/content-view/view/1230113">Link</a></td>
     </tr>
   </tbody>
 </table>
