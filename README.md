@@ -58,8 +58,8 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 ## Facts
 
-- in Wuhan, lockdown started when infected people were 500 [Link](https://en.wikipedia.org/wiki/Timeline_of_the_2019%E2%80%9320_coronavirus_pandemic_in_November_2019_%E2%80%93_January_2020#23_January) [Link2](https://www.facebook.com/cristiano.siri/posts/10158326307985763). It was on January 23rd. On March 14th the number grew to about 80.000
-- in Italy, lockdown started when number of infected were 5883 [Link](http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/-/content-view/view/1225413). It was March 7th. Governement estimates to reach 92.000 infected on March 18th [Link](https://www.ilsole24ore.com/art/coronavirus-governo-stima-92mila-contagi-picco-18-marzo-ADfgS9C)
+- **in Wuhan, lockdown started when infected people were 500** [Link](https://en.wikipedia.org/wiki/Timeline_of_the_2019%E2%80%9320_coronavirus_pandemic_in_November_2019_%E2%80%93_January_2020#23_January) [Link2](https://www.facebook.com/cristiano.siri/posts/10158326307985763). It was on January 23rd. On March 14th the number grew to about 80.000
+- **in Italy, lockdown started when number of infected were 5883** [Link](http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/-/content-view/view/1225413). It was March 7th. **Governement estimates to reach the peak of 92.000 infected on March 18th** [Link](https://www.ilsole24ore.com/art/coronavirus-governo-stima-92mila-contagi-picco-18-marzo-ADfgS9C)
 
 ## Links
 
