@@ -6,10 +6,10 @@ Tracking Covid19 trend in Trento Province
 <table>
   <thead>
     <tr>
-      <td>Date</td>
-      <td>Total</td>
-      <td>New</td>
-      <td>New (%)</td>
+      <td><b>Date</b></td>
+      <td><b>Total</b></td>
+      <td><b>New</b></td>
+      <td><b>New (%)</b></td>
     </tr>
   </thead>
   <tbody>
