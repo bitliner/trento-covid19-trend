@@ -63,7 +63,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 ## Links
 
-- [Sole24 ore - Most recent data and map](https://lab24.ilsole24ore.com/coronavirus/)
+- [Sole24 ore - Updated data and map at Italian level](https://lab24.ilsole24ore.com/coronavirus/)
 
 
 
