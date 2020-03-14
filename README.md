@@ -1,4 +1,4 @@
-# trento-codiv19-trend
+# trento-covid19-trend
 
 Tracking Covid19 trend in Trento Province.
 
