@@ -9,9 +9,9 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
   <thead>
     <tr>
       <td><b>Date</b></td>
-      <td><b>Total</b></td>
-      <td><b>New</b></td>
-      <td><b>New (%)</b></td>
+      <td><b>Total infected</b></td>
+      <td><b>New infected</b></td>
+      <td><b>Growth rate</b></td>
       <td><b>Link</b></td>
     </tr>
   </thead>
@@ -46,3 +46,8 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
     </tr>
   </tbody>
 </table>
+
+## Update on 14/03
+
+- today growth rate decreased from 54% to 27%. However, it could still increase, due to 2 weeks incubation period, that makes spread measurements uncertain
+- because of lockdown (started on March 10th), growth rate should go to almost 0% on March 24th
