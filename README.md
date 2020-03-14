@@ -51,3 +51,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 - today growth rate decreased from 54% to 27%. However, it could still increase, due to 2 weeks incubation period, that makes spread measurements uncertain
 - because of lockdown (started on March 10th), growth rate should go to almost 0% on March 24th
+
+## Other helpful links
+
+- [Sole24 ore - Most recent data and map](https://lab24.ilsole24ore.com/coronavirus/)
