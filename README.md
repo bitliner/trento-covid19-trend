@@ -54,9 +54,9 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 - **growth rate decreased from 54% to 27%**. However, it could still increase, due to 2 weeks incubation period, that makes spread measurements uncertain
 - because of lockdown (started on March 10th), **growth rate should go to almost 0% on March 24th**
 - actual risks not included in the prediction:
-  - commuters going back to their city of birth, during these recent days
-  - people in touch with actual infected, that could spread the virus further 
-  - people from foreign countries that adopted lockdown too late (eg UK, Germany, Spain)
+  - commuters going back to their city of birth, happening these recent days  
+  - people in touch with actual infected, that could get infected  
+  - people living in foreign countries that adopted lockdown too late (eg UK, Germany, Spain) and that could travel to Italy
 
 ## Facts
 
