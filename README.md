@@ -45,6 +45,12 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td>42</td>
       <td>27%</td>
       <td><a href="http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/-/content-view/view/1230113">Link</a></td>
+       <tr>
+      <td>15/03</td>
+      <td>?</td>
+      <td>?</td>
+      <td>?</td>
+      <td><a href="#">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -65,7 +71,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 ## Impact on economics
 
-- [five-early-warning-economic-indicators-show-u-s-virus-shock](https://www.bloomberg.com/news/articles/2020-03-14/five-early-warning-economic-indicators-show-u-s-virus-shock?) - 14/03/2020
+- [Bloomberg / five early warning economic indicators show us virus shock](https://www.bloomberg.com/news/articles/2020-03-14/five-early-warning-economic-indicators-show-u-s-virus-shock?) - 14/03/2020
 - [McKinsey Report](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Risk/Our%20Insights/COVID%2019%20Implications%20for%20business/COVID-19-Facts-and-Insights-February-28-2020-McKinsey.ashx) - 28/02/2020 
 
 ## Links
