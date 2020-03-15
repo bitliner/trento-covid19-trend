@@ -47,13 +47,17 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td><a href="http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/-/content-view/view/1230113">Link</a></td>
        <tr>
       <td>15/03</td>
-      <td>?</td>
-      <td>?</td>
-      <td>?</td>
-      <td><a href="#">Link</a></td>
+      <td>367</td>
+      <td>168</td>
+      <td>84%</td>
+      <td><a href="http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio/-/asset_publisher/default/content/coronavirus-sono-20-603-i-positivi">Link</a></td>
     </tr>
   </tbody>
 </table>
+
+## Update on 15/03
+
+- **growth rate drammatically increases, to 84%**, the highest in recent days. Probably still a result from the time before lockdown, or lockdown not correctly observed or not working correctly in some areas  
 
 ## Update on 14/03
 
