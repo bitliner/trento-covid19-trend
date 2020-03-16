@@ -52,8 +52,19 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td>84%</td>
       <td><a href="http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/dettaglio/-/asset_publisher/default/content/coronavirus-sono-20-603-i-positivi">Link</a></td>
     </tr>
+    <tr>
+      <td>16/03</td>
+      <td>440</td>
+      <td>73</td>
+      <td>20%</td>
+      <td><a href="http://www.ansa.it/trentino/">Link</a></td>
+    </tr>
   </tbody>
 </table>
+
+## Update on 16/03
+
+- growth rate back to 20%. No further insights can be derived, given lack of any pattern during recent days.
 
 ## Update on 15/03
 
