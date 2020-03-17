@@ -89,8 +89,14 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 ## Facts
 
+**Predictions**
+
 - **in Wuhan, lockdown started when infected people were 500** [Link](https://en.wikipedia.org/wiki/Timeline_of_the_2019%E2%80%9320_coronavirus_pandemic_in_November_2019_%E2%80%93_January_2020#23_January) [Link2](https://www.facebook.com/cristiano.siri/posts/10158326307985763). It was on January 23rd. On March 14th the number grew to about 80.000
 - **in Italy, lockdown started when number of infected were 5.883** [Link](http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/-/content-view/view/1225413). It was March 7th. **Governement estimates to reach the peak of 92.000 infected on March 18th** [Link](https://www.ilsole24ore.com/art/coronavirus-governo-stima-92mila-contagi-picco-18-marzo-ADfgS9C). On March 14th number of infected is 17.750. The growth rate of the recent days is about +3.000 infected per day 
+
+**Curiosity**
+
+- [50-75% of infected are asymptomatic](https://www.repubblica.it/salute/medicina-e-ricerca/2020/03/16/news/coronavirus_studio_il_50-75_dei_casi_a_vo_sono_asintomatici_e_molto_contagiosi-251474302/)
 
 ## Impact on economics
 
