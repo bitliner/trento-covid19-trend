@@ -59,6 +59,14 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td>20%</td>
       <td><a href="http://www.ansa.it/trentino/">Link</a></td>
     </tr>
+    <tr>
+      <td>17/03</td>
+      <td>591</td>
+      <td>151</td>
+      <td>34%</td>
+      <td><a href="http://www.ansa.it/trentino/notizie/2020/03/17/coronavirus-fugatti-in-trentino-151-contagi-in-piu-di-ieri_14fd10b7-da3b-4d00-9ac2-50c931969ef7.html">Link</a></td>
+    </tr>
+    
   </tbody>
 </table>
 
