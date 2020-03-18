@@ -115,6 +115,11 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 - [Bloomberg / five early warning economic indicators show us virus shock](https://www.bloomberg.com/news/articles/2020-03-14/five-early-warning-economic-indicators-show-u-s-virus-shock?) - 14/03/2020
 - [McKinsey Report](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Risk/Our%20Insights/COVID%2019%20Implications%20for%20business/COVID-19-Facts-and-Insights-February-28-2020-McKinsey.ashx) - 28/02/2020 
 
+## Impact on health
+
+- [How Coronavirus kills](https://www.youtube.com/watch?v=okg7uq_HrhQ)
+- [Potential permanent damages after recovery](https://www.businessinsider.com/coronavirus-recovery-damage-lung-function-gasping-air-hong-kong-doctors-2020-3?IR=T)
+
 ## Links
 
 - [Sole24 ore - Updated data and map at Italian level](https://lab24.ilsole24ore.com/coronavirus/)
