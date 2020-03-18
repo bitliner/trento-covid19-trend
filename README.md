@@ -79,7 +79,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 ## Update on 18:03
 
-- **in the last 3 days growth rate seems stable between 20%-30%** 
+- **in the last 3 days growth rate seems stable between 20%-35%** 
 
 ## Update on 16/03
 
