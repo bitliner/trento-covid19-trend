@@ -66,9 +66,20 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td>34%</td>
       <td><a href="http://www.ansa.it/trentino/notizie/2020/03/17/coronavirus-fugatti-in-trentino-151-contagi-in-piu-di-ieri_14fd10b7-da3b-4d00-9ac2-50c931969ef7.html">Link</a></td>
     </tr>
+    <tr>
+      <td>18/03</td>
+      <td>719</td>
+      <td>128</td>
+      <td>22%</td>
+      <td><a href="">Link</a></td>
+    </tr>
     
   </tbody>
 </table>
+
+## Update on 18:03
+
+- **in the last 3 days growth rate seems stable between 20%-30%** 
 
 ## Update on 16/03
 
