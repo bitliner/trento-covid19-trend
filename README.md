@@ -71,14 +71,14 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td>719</td>
       <td>128</td>
       <td>22%</td>
-      <td><a href="">Link</a></td>
+      <td><a href="http://www.ansa.it/trentino/notizie/2020/03/18/coronavirus-nuova-vittima-in-trentino-salgono-a-8-i-morti_5b530f89-5f9f-4a16-b879-23bdbdde4771.html">Link</a></td>
     </tr>
      <tr>
       <td>19/03</td>
       <td>857</td>
       <td>138</td>
       <td>19%</td>
-      <td><a href="">Link</a></td>
+      <td><a href="http://www.ansa.it/trentino/notizie/2020/03/19/coronavirus-in-trentino-4-morti-138-contagi_15f224c0-c0ca-490a-9135-f650ee2cfc53.html">Link</a></td>
     </tr>
     
   </tbody>
