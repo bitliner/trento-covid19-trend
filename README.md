@@ -73,6 +73,13 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td>22%</td>
       <td><a href="">Link</a></td>
     </tr>
+     <tr>
+      <td>19/03</td>
+      <td>857</td>
+      <td>138</td>
+      <td>19%</td>
+      <td><a href="">Link</a></td>
+    </tr>
     
   </tbody>
 </table>
