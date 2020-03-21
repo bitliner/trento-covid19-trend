@@ -101,7 +101,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 ## Update on 18/03
 
 - **in the last 3 days growth rate seems stable between 20%-35%** 
-- in Trento 118 infected. 38 new infected in 2 days, from 16/03/2020. Growth rate by 46% [count by municipality](https://www.giornaletrentino.it/cronaca/coronavirus-mappa-dei-contagi-trento-arco-ledro-e-pergine-le-zone-pi%C3%B9-colpite-1.2296477)
+- [count by municipality](https://www.giornaletrentino.it/cronaca/coronavirus-mappa-dei-contagi-trento-arco-ledro-e-pergine-le-zone-pi%C3%B9-colpite-1.2296477) - in Trento 118 infected. 38 new infected in 2 days, from 16/03/2020. Growth rate by 46% 
 
 ## Update on 16/03
 
