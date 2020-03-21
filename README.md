@@ -134,6 +134,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 ## Impact on economics
 
+- [Effect of economic crisis on America’s small businesses](https://docs.google.com/presentation/d/1IUTHX2kTagUUV88HUJCkp_P6iZgLCXXVHD9UeOwU_1w/mobilepresent?slide=id.g71b0a47020_30_486) (21/03/2020)
 - [How Chinese companies have responded to Coronavirus](https://hbr.org/2020/03/how-chinese-companies-have-responded-to-coronavirus)
 - [150 public traded companies have warned investors](https://www.cnbc.com/2020/03/11/coronavirus-at-least-150-companies-have-warned-investors.html)
 - [DHL Update (10/03/2020)](https://www.logistics.dhl/content/dam/dhl/global/dhl-global-forwarding/documents/pdf/glo-dgf-statement-corona-virus.pdf)
