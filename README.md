@@ -163,6 +163,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 - [How Coronavirus kills](https://www.youtube.com/watch?v=okg7uq_HrhQ)
 - [Potential permanent damages after recovery](https://www.businessinsider.com/coronavirus-recovery-damage-lung-function-gasping-air-hong-kong-doctors-2020-3?IR=T)
+- [7 importanting things to know about Coronaviruses](https://www.nytimes.com/2020/03/20/opinion/coronavirus-facts.html)
 
 ## Dashboards
 
