@@ -153,5 +153,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 - [Sole24 ore - Updated data and map at Italian level](https://lab24.ilsole24ore.com/coronavirus/)
 - [WFP - World Food Programme](https://www.arcgis.com/apps/opsdashboard/index.html#/4f74fc222b7041cd9cc3c52e62af1b8c)
 
+## Other lectures
 
+- [Bill Gates - AMA about COVID-19](https://www.reddit.com/r/Coronavirus/comments/fksnbf/im_bill_gates_cochair_of_the_bill_melinda_gates/)
 
