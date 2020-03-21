@@ -146,9 +146,10 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 - [How Coronavirus kills](https://www.youtube.com/watch?v=okg7uq_HrhQ)
 - [Potential permanent damages after recovery](https://www.businessinsider.com/coronavirus-recovery-damage-lung-function-gasping-air-hong-kong-doctors-2020-3?IR=T)
 
-## Links
+## Dashboards
 
 - [Sole24 ore - Updated data and map at Italian level](https://lab24.ilsole24ore.com/coronavirus/)
+- [WFP - World Food Programme](https://www.arcgis.com/apps/opsdashboard/index.html#/4f74fc222b7041cd9cc3c52e62af1b8c)
 
 
 
