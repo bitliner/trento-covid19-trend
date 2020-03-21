@@ -104,7 +104,8 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 ## Update on 16/03
 
-- growth rate back to 20%. No further insights can be derived, given lack of any pattern during recent days.
+- growth rate back to 20%. No further insights can be derived, given lack of any pattern during recent days
+- [count by municipality](https://www.lavocedeltrentino.it/2020/03/17/coronavirus-in-trentino-la-mappa-dei-comuni-interessati/) - 84 infected in Trento
 
 ## Update on 15/03
 
