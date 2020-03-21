@@ -80,11 +80,25 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td>19%</td>
       <td><a href="http://www.ansa.it/trentino/notizie/2020/03/19/coronavirus-in-trentino-4-morti-138-contagi_15f224c0-c0ca-490a-9135-f650ee2cfc53.html">Link</a></td>
     </tr>
+    <tr>
+      <td>20/03</td>
+      <td>1067</td>
+      <td>210</td>
+      <td>25%</td>
+      <td><a href="http://www.ansa.it/trentino/notizie/2020/03/20/coronavirus-un-altro-morto-in-trentino-1.067-i-contagiati_dbe9eb2e-a985-46c8-bec0-fc6cda64e198.html">Link</a></td>
+    </tr>
     
   </tbody>
 </table>
 
-## Update on 18:03
+
+## Update on 20/03
+
+- growth during last 3 days in 19%-25%
+- **Ansa.it have each day an higher number of infected than Protezione Civile**. The higher number could be due to different way of counting - they start to count +10 infected for each new infected - to take into account the potential and not yet measured spread and try to get a more real number of infected 
+
+
+## Update on 18/03
 
 - **in the last 3 days growth rate seems stable between 20%-35%** 
 
@@ -118,6 +132,9 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 ## Impact on economics
 
+- [150 public traded companies have warned investors](https://www.cnbc.com/2020/03/11/coronavirus-at-least-150-companies-have-warned-investors.html)
+- [DHL Update (10/03/2020)](https://www.logistics.dhl/content/dam/dhl/global/dhl-global-forwarding/documents/pdf/glo-dgf-statement-corona-virus.pdf)
+- [Philips China supply chains recovering from disruption will hit results](https://seekingalpha.com/news/3548538-philips-china-supply-chains-recovering-disruption-will-hit-results)
 - [Stop the European Central Bank](https://twitter.com/ThomasPHI2/status/1239953959256829957)
 - [Bloomberg / five early warning economic indicators show us virus shock](https://www.bloomberg.com/news/articles/2020-03-14/five-early-warning-economic-indicators-show-u-s-virus-shock?) - 14/03/2020
 - [McKinsey Report](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Risk/Our%20Insights/COVID%2019%20Implications%20for%20business/COVID-19-Facts-and-Insights-February-28-2020-McKinsey.ashx) - 28/02/2020 
