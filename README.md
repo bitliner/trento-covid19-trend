@@ -143,6 +143,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 ## Impact on economics
 
+- [50% of small business gone. Walmart stock is at record high & Amazon is hiring 100k people](https://twitter.com/DanPriceSeattle/status/1241061860960612354)
 - [Effect of economic crisis on America’s small businesses](https://docs.google.com/presentation/d/1IUTHX2kTagUUV88HUJCkp_P6iZgLCXXVHD9UeOwU_1w/mobilepresent?slide=id.g71b0a47020_30_486) (21/03/2020)
 - [How Chinese companies have responded to Coronavirus](https://hbr.org/2020/03/how-chinese-companies-have-responded-to-coronavirus)
 - [150 public traded companies have warned investors](https://www.cnbc.com/2020/03/11/coronavirus-at-least-150-companies-have-warned-investors.html)
