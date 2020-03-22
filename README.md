@@ -8,6 +8,7 @@ Tracking Covid19 trend in Trento Province.
 - [Facts](#facts)
 - [Impact on economics](#Impact-on-economics)
 - [Impact on health](#Impact-on-health)
+- [Solutions](#solutions)
 - [Dashboards](#Dashboards)
 - [Other lectures](#other-lectures)
 
@@ -164,6 +165,10 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 - [How Coronavirus kills](https://www.youtube.com/watch?v=okg7uq_HrhQ)
 - [Potential permanent damages after recovery](https://www.businessinsider.com/coronavirus-recovery-damage-lung-function-gasping-air-hong-kong-doctors-2020-3?IR=T)
 - [7 importanting things to know about Coronaviruses](https://www.nytimes.com/2020/03/20/opinion/coronavirus-facts.html)
+
+## Solutions
+
+- [Plasma from blood of people that recovered](https://www.globalhealthnow.org/2020-03/covid-19s-stop-gap-solution-until-vaccines-and-antivirals-are-ready)
 
 ## Dashboards
 
