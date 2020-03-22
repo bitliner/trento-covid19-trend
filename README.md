@@ -188,5 +188,6 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 ## Other lectures
 
+- [Germany low coronavirus mortality rate puzzles experts](https://www.theguardian.com/world/2020/mar/22/germany-low-coronavirus-mortality-rate-puzzles-experts)
 - [Bill Gates - AMA about COVID-19](https://www.reddit.com/r/Coronavirus/comments/fksnbf/im_bill_gates_cochair_of_the_bill_melinda_gates/)
 
