@@ -104,6 +104,13 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td>23%</td>
       <td><a href="http://www.ansa.it/trentino/notizie/2020/03/21/coronavirus-in-trentino-15-morti-in-24-ore_f1345c55-8e7a-4ced-9eb8-15f403a43308.html">Link</a></td>
     </tr>
+     <tr>
+      <td>22/03</td>
+      <td>1480</td>
+      <td>175</td>
+      <td>13%</td>
+      <td><a href="http://www.ansa.it/trentino/notizie/2020/03/22/coronavirus-sale-a-35-bilancio-morti-in-trentino_83d52f4d-db4f-4407-8bed-7d49dd824bc2.html">Link</a></td>
+    </tr>
   </tbody>
 </table>
 
