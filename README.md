@@ -11,6 +11,7 @@ Tracking Covid19 trend in Trento Province.
 - [Solutions](#solutions)
 - [Dashboards](#Dashboards)
 - [Other lectures](#other-lectures)
+- [Deliveries in Trento](#deliveries-in-trento)
 
 ## Trend in Trento Province
 
@@ -198,4 +199,8 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 - [Germany low coronavirus mortality rate puzzles experts](https://www.theguardian.com/world/2020/mar/22/germany-low-coronavirus-mortality-rate-puzzles-experts)
 - [Bill Gates - AMA about COVID-19](https://www.reddit.com/r/Coronavirus/comments/fksnbf/im_bill_gates_cochair_of_the_bill_melinda_gates/)
+
+## Deliveries in Trento
+
+https://www.notion.so/fcb0273cf5c74b8ca7435d8e1288eb36?v=3de55490066c45f7a97ce5d4ad7f62d6
 
