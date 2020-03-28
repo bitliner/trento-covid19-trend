@@ -2,7 +2,7 @@
 
 Tracking Covid19 trend in Trento Province.
 
-<img src="Covid19 Trend - Trentino.png" text="trento-province-covid19-trend" alt="trento-province-covid19-trend"/>
+<img src="Covid19 Trend - Trentino.png" text="trento-province-covid19-trend" alt="trento-province-covid19-trend" style="text-align:center;"/>
 
 ## Summary
 
