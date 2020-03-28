@@ -28,7 +28,6 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td><b>Link</b></td>
     </tr>
   </thead>
-  
   <tbody>
     <tr>
       <td>11/03</td>
