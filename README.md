@@ -120,9 +120,46 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td>9%</td>
       <td><a href="http://www.ansa.it/trentino/notizie/2020/03/23/coronavirus-altri-6-morti-in-trentino-1.611-contagiati_4ff36bef-7e9c-4486-b72d-7b14dfe026d7.html">Link</a></td>
     </tr>
+    
+    <tr>
+      <td>24/03</td>
+      <td>1824</td>
+      <td>213</td>
+      <td>13%</td>
+      <td><a href="http://www.ansa.it/trentino/notizie/2020/03/24/coronavirus-in-trentino-altri-15-morti-214-contagi_4506ec43-e8ad-432d-90a4-2ab3386ce324.html">Link</a></td>
+    </tr>
+    
+    <tr>
+      <td>25/03</td>
+      <td>2001</td>
+      <td>177</td>
+      <td>10%</td>
+      <td><a href="https://www.ansa.it/trentino/notizie/2020/03/25/coronavirus-altri-18-morti-in-trentino-2.001-contagiati_d192b80a-3d29-45da-b76e-f4e158fb3425.html">Link</a></td>
+    </tr>
+    
+    
+    
+    <tr>
+      <td>26/03</td>
+      <td>2122</td>
+      <td>121</td>
+      <td>6%</td>
+      <td><a href="https://www.ansa.it/trentino/notizie/2020/03/26/coronavirus-in-trentino-altri-12-morti-121-contagi_2815d59d-2477-4492-9f2b-ea216cedc567.html">Link</a></td>
+    </tr>
+    
+    <tr>
+      <td>27/03</td>
+      <td>2236</td>
+      <td>114</td>
+      <td>6%</td>
+      <td><a href="https://www.ansa.it/trentino/notizie/2020/03/27/coronavirus-altri-16-morti-in-trentino-2.236-i-contagiati_643197b5-ce49-42f8-9f27-567b6a048efc.html">Link</a></td>
+    </tr>
   </tbody>
 </table>
 
+## Update on 27/03
+
+- number of new infected per days is decreasing over time. I think we reached the peak, and number of new infected should further decrease on next weeks
 
 ## Update on 20/03
 
