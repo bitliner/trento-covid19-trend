@@ -28,6 +28,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td><b>Link</b></td>
     </tr>
   </thead>
+  
   <tbody>
     <tr>
       <td>11/03</td>
@@ -56,6 +57,8 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td>42</td>
       <td>27%</td>
       <td><a href="http://www.protezionecivile.gov.it/media-comunicazione/comunicati-stampa/-/content-view/view/1230113">Link</a></td>
+  </tr>
+  
        <tr>
       <td>15/03</td>
       <td>367</td>
