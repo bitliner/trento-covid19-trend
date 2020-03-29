@@ -162,6 +162,13 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td>0.2%</td>
       <td><a href="http://www.ansa.it/trentino/notizie/2020/03/28/coronavirus-fugatti-altri-18-decessi-numeri-tristi_c5f7e66b-59e3-4c4d-a298-62151ad3cb39.html">Link</a></td>
     </tr>
+    <tr>
+      <td>29/03</td>
+      <td>2306</td>
+      <td>67</td>
+      <td>3%</td>
+      <td><a href="http://www.ansa.it/trentino/notizie/2020/03/29/coronavirus-altri-9-morti-in-trentino-87-i-contagiati_da4944c4-5c03-4433-a3b1-e79c437b6ef0.html">Link</a></td>
+    </tr>
     
   </tbody>
 </table>
