@@ -169,7 +169,27 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td>3%</td>
       <td><a href="http://www.ansa.it/trentino/notizie/2020/03/29/coronavirus-altri-9-morti-in-trentino-87-i-contagiati_da4944c4-5c03-4433-a3b1-e79c437b6ef0.html">Link</a></td>
     </tr>
-    
+     <tr>
+      <td>30/03</td>
+      <td>2408</td>
+      <td>102</td>
+      <td>4%</td>
+      <td><a href="https://www.ansa.it/trentino/notizie/2020/03/30/coronavirus-in-trentino-altri-18-morti-102-contagi_e459e734-cad2-4e94-9e5e-2152c56cb70e.html">Link</a></td>
+    </tr>
+     <tr>
+      <td>31/03</td>
+      <td>2453</td>
+      <td>45</td>
+      <td>2%</td>
+      <td><a href="https://www.ansa.it/trentino/notizie/2020/03/31/coronavirus-in-trentino-altri-17-morti-contagi-in-calo_74dcde29-0bab-4502-b4fa-db493907a3b0.html">Link</a></td>
+    </tr>
+    <tr>
+      <td>1/04</td>
+      <td>2550</td>
+      <td>97</td>
+      <td>4%</td>
+      <td><a href="https://www.ansa.it/trentino/notizie/2020/04/01/coronavirus-9-decessi-in-trentino-97-i-contagiati_64085277-fa01-4977-b55f-8f0548eb9539.html">Link</a></td>
+    </tr>
   </tbody>
 </table>
 
