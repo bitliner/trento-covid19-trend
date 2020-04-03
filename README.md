@@ -190,6 +190,13 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td>4%</td>
       <td><a href="https://www.ansa.it/trentino/notizie/2020/04/01/coronavirus-9-decessi-in-trentino-97-i-contagiati_64085277-fa01-4977-b55f-8f0548eb9539.html">Link</a></td>
     </tr>
+    <tr>
+      <td>2/04</td>
+      <td>2664</td>
+      <td>114</td>
+      <td>5%</td>
+      <td><a href="https://www.ansa.it/trentino/notizie/2020/04/01/coronavirus-9-decessi-in-trentino-97-i-contagiati_64085277-fa01-4977-b55f-8f0548eb9539.html">Link</a></td>
+    </tr>
   </tbody>
 </table>
 
