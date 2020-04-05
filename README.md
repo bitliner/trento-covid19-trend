@@ -253,6 +253,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 ## Impact on economics
 
+- [Dozens have laid off thousands, slashed costs and changed their businesses to try to survive the pandemic. All that may not work.](https://www.nytimes.com/2020/04/01/technology/virus-start-ups-pummeled-layoffs-unwinding.html?auth=login-facebook)
 - (IT) [Famiglie e imprese, per il dopo conterà il digitale](https://roma.corriere.it/notizie/cronaca/20_aprile_04/per-dopocontera-digitale-e19e557a-75d0-11ea-856e-f9aa62c97d7a.shtml?fbclid=IwAR1FuGIKpfpXwbnugA65-da79u3dHQi-jR3WV20_l6l2jDVZpGeBGZOuC1Q&refresh_ce-cp)
 - [the ceo playbook for keeping your company alive](https://steveblank.com/2020/04/01/the-ceo-playbook-for-keeping-your-company-alive/)
 - [50% of small business gone. Walmart stock is at record high & Amazon is hiring 100k people](https://twitter.com/DanPriceSeattle/status/1241061860960612354) - 20/03/2020
