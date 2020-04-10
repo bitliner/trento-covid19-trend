@@ -206,41 +206,55 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
     </tr>
     <tr>
       <td>4/04</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><a href="">Link</a></td>
+      <td>2934</td>
+      <td>95</td>
+      <td>3.3%</td>
+      <td><a href="https://www.ansa.it/trentino/notizie/2020/04/04/coronavirus-altri-6-decessi-in-trentino-95-i-contagiati_8e3757fc-9c1a-4b3c-bbd8-e5f4178ca74a.html">Link</a></td>
     </tr>
     <tr>
       <td>5/04</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><a href="">Link</a></td>
+      <td>3042</td>
+      <td>108</td>
+      <td>4%</td>
+      <td><a href="https://www.ansa.it/trentino/notizie/2020/04/05/coronavirus-altri-7-decessi-in-trentino-58-i-nuovi-contagi_b950a60b-e06b-4735-98c2-8dfd2bbdf52f.html">Link</a></td>
     </tr>
     <tr>
       <td>6/04</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><a href="">Link</a></td>
+      <td>3111</td>
+      <td>69</td>
+      <td>3%</td>
+      <td><a href="https://www.ansa.it/trentino/notizie/2020/04/06/coronavirus-in-trentino-altri-13-morti-69-contagi-in-piu_3d10ac0c-2390-450f-a8d2-af436aefc14c.html">Link</a></td>
     </tr>
     <tr>
       <td>7/04</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><a href="">Link</a></td>
+      <td>3236</td>
+      <td>125</td>
+      <td>4%</td>
+      <td><a href="https://www.ansa.it/trentino/notizie/2020/04/07/coronavirus-altri-14-morti-in-trentino-125-nuovi-contagi_53fc75f0-51f0-4f4f-ac66-79acdc77991e.html">Link</a></td>
     </tr>
     <tr>
       <td>8/04</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><a href="">Link</a></td>
+      <td>3342</td>
+      <td>106</td>
+      <td>3%</td>
+      <td><a href="https://www.ansa.it/trentino/notizie/2020/04/08/coronavirus-altri-11-morti-in-trentino-106-contagi_0e197466-5c0f-42a6-91d2-daf144875002.html">Link</a></td>
     </tr>
     <tr>
       <td>9/04</td>
+      <td>3431</td>
+      <td>89</td>
+      <td>3%</td>
+      <td><a href="https://www.ansa.it/trentino/notizie/2020/04/09/coronavirus-13-nuovi-decessi-in-trentino-89-contagiati_08c5e25f-d6fe-4fd3-b7d4-4c917ec128cb.html">Link</a></td>
+    </tr>
+     <tr>
+      <td>10/04</td>
+      <td>3524</td>
+      <td>93</td>
+      <td>3%</td>
+      <td><a href="https://www.ansa.it/trentino/notizie/2020/04/10/coronavirus-7-decessi-in-trentino-93-i-contagiati_e3a034ee-53e1-4a3a-a24c-e8257bda9c7e.html">Link</a></td>
+    </tr>
+     <tr>
+      <td>11/04</td>
       <td></td>
       <td></td>
       <td></td>
