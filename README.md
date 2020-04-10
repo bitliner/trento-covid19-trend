@@ -204,6 +204,48 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
       <td>7%</td>
       <td><a href="https://www.ansa.it/trentino/notizie/2020/04/03/coronavirus-altri-17-morti-in-trentino-204-nuovi-contagi_bd98b1e0-e10b-4830-92a9-b7ef4840aa25.html">Link</a></td>
     </tr>
+    <tr>
+      <td>4/04</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><a href="">Link</a></td>
+    </tr>
+    <tr>
+      <td>5/04</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><a href="">Link</a></td>
+    </tr>
+    <tr>
+      <td>6/04</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><a href="">Link</a></td>
+    </tr>
+    <tr>
+      <td>7/04</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><a href="">Link</a></td>
+    </tr>
+    <tr>
+      <td>8/04</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><a href="">Link</a></td>
+    </tr>
+    <tr>
+      <td>9/04</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><a href="">Link</a></td>
+    </tr>
   </tbody>
 </table>
 
