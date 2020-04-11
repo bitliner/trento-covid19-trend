@@ -18,6 +18,7 @@ Tracking Covid19 trend in Trento Province.
 - [Solutions](#solutions)
 - [Dashboards](#Dashboards)
 - [Other lectures](#other-lectures)
+- [Software development](#software-development)
 - [Deliveries in Trento](#deliveries-in-trento)
 
 ## Trend in Trento Province
