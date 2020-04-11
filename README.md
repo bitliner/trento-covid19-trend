@@ -310,6 +310,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 ## Impact on economics
 
+- [How Covid-19 will impact IT and tech spending for 2020 and beyond](https://www.cloudcomputing-news.net/news/2020/mar/30/covid-19s-impact-on-tech-spending-this-year/)
 - [how covid 19 is impacting software development hiring](https://medium.com/coderbyte/how-the-covid-19-pandemic-is-impacting-software-development-hiring-72243f41ac9e)
 - [How covid19 is impacting data jobs](https://www.datanami.com/2020/04/03/how-covid-19-is-impacting-the-market-for-data-jobs/) (2020-04-03)
 - [Dozens have laid off thousands, slashed costs and changed their businesses to try to survive the pandemic. All that may not work.](https://www.nytimes.com/2020/04/01/technology/virus-start-ups-pummeled-layoffs-unwinding.html?auth=login-facebook)
