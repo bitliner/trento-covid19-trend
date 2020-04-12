@@ -361,7 +361,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
    - search for new business models, also by re-evaluating how technology, insights and analytics can fuel future growth
    - keep CX high
  - privacy: collection of personal data is changing or needs a change
-   - tracking is essential to fight the virus (e.g. Singapore, South Korea). A vaccine is expected in 12-18 months (2021)
+   - tracking is essential to fight the virus (e.g. Singapore, South Korea). A vaccine is expected in 12-18 months (2021), on the short term there is no other solution. Without tracking, lockdown period will be longer, economic impact will be much bigger 
    - almost "need of tracking" > "need of protection personal data"
    
    
