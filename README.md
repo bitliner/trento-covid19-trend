@@ -382,6 +382,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 ## Dashboards
 
+- [Quarantena live](https://quarantenalive.it/?fbclid=IwAR3Ie_MKYQuMtZd37rqLi0yONcxWFjWoY1WkAl4umAb0ZM9pcbQzBbgRaGI)
 - [Sole24 ore - Updated data and map at Italian level](https://lab24.ilsole24ore.com/coronavirus/)
 - [WFP - World Food Programme](https://www.arcgis.com/apps/opsdashboard/index.html#/4f74fc222b7041cd9cc3c52e62af1b8c)
 - [GediDigital](https://lab.gedidigital.it/gedi-visual/2020/coronavirus-in-italia/)
