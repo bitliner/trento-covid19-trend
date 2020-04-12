@@ -264,42 +264,42 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
      <tr>
       <td>12/04</td>
       <td></td>
-      <td><td>
+      <td></td>
       <td></td>
       <td><a href="">Link</a></td>
     </tr>
     <tr>
       <td>13/04</td>
       <td></td>
-      <td><td>
+      <td></td>
       <td></td>
       <td><a href="">Link</a></td>
     </tr>
     <tr>
       <td>14/04</td>
       <td></td>
-      <td><td>
+      <td></td>
       <td></td>
       <td><a href="">Link</a></td>
     </tr>
     <tr>
       <td>15/04</td>
       <td></td>
-      <td><td>
+      <td></td>
       <td></td>
       <td><a href="">Link</a></td>
     </tr>
     <tr>
       <td>16/04</td>
       <td></td>
-      <td><td>
+      <td></td>
       <td></td>
       <td><a href="">Link</a></td>
     </tr>
     <tr>
       <td>17/04</td>
       <td></td>
-      <td><td>
+      <td></td>
       <td></td>
       <td><a href="">Link</a></td>
     </tr>
