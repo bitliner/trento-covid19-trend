@@ -352,6 +352,21 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 ## Impact on economics
 
+**Key takeaways**
+
+ - economy have network effects: the crisis, started from sectors like tourism, will propagate progressively to connected sectors, with possibility to expand exponentially
+ - priorities for companies:
+   - plan for enough runway to arrive at the end of the crisis
+   - become more efficient
+   - search for new business models, also by re-evaluating how technology, insights and analytics can fuel future growth
+   - keep CX high
+ - privacy: collection of personal data is changing or needs a change
+   - tracking is essential to fight the virus (e.g. Singapore, South Korea). A vaccine is expected in 12-18 months (2021)
+   - almost "need of tracking" > "need of protection personal data"
+   
+   
+**Articles**
+
 - [covid19 drives recession damaging automotive, consumer electronics and semiconductors globally](https://menafn.com/1100001742/Strategy-Analytics-COVID-19-Drives-Recession-Damaging-Automotive-Consumer-Electronics-and-Semiconductors-Globally) (2020-04-10)
 - [How Covid-19 will impact IT and tech spending for 2020 and beyond](https://www.cloudcomputing-news.net/news/2020/mar/30/covid-19s-impact-on-tech-spending-this-year/)
 - [how covid 19 is impacting software development hiring](https://medium.com/coderbyte/how-the-covid-19-pandemic-is-impacting-software-development-hiring-72243f41ac9e)
