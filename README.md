@@ -367,10 +367,14 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
    - fight of delinquencies - e.g. to distribute correctly helps from the governement
    - tracking and protection of personal data - eg empower community managers to expand tracking technologies to their members
    - support for remote experience - eg apps for video calls, CX analytics
+     - CX analytics
+     - virtual events
+   - on-demand food and services delivery
    
    
 **Articles**
 
+- [12 steps to move digital transformation faster during covid19](https://www.forbes.com/sites/blakemorgan/2020/04/05/is-covid-19-forcing-your-digital-transformation-12-steps-to-move-faster/#61fc8d88617b)
 - [covid19 drives recession damaging automotive, consumer electronics and semiconductors globally](https://menafn.com/1100001742/Strategy-Analytics-COVID-19-Drives-Recession-Damaging-Automotive-Consumer-Electronics-and-Semiconductors-Globally) (2020-04-10)
 - [How Covid-19 will impact IT and tech spending for 2020 and beyond](https://www.cloudcomputing-news.net/news/2020/mar/30/covid-19s-impact-on-tech-spending-this-year/)
 - [how covid 19 is impacting software development hiring](https://medium.com/coderbyte/how-the-covid-19-pandemic-is-impacting-software-development-hiring-72243f41ac9e)
