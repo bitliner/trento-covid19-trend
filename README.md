@@ -366,9 +366,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
  - hot trends in technology
    - fight of delinquencies - e.g. to distribute correctly helps from the governement
    - tracking and protection of personal data - eg empower community managers to expand tracking technologies to their members
-   - support for remote experience - eg apps for video calls, CX analytics
-     - CX analytics
-     - virtual events
+   - support for remote experience - eg apps for video calls, CX analytics, virtual events
    - on-demand food and services delivery
    
    
