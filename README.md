@@ -354,7 +354,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 **Key takeaways**
 
- - economy have network effects: the crisis, started from sectors like tourism, will propagate progressively to connected sectors, with possibility to expand exponentially
+ - economy have network effects: the crisis, started from sectors like tourism (eg Airbnb lost 90% of their revenue), will propagate progressively to connected sectors, with possibility to expand exponentially
  - priorities for companies:
    - plan for enough runway to arrive at the end of the crisis
    - become more efficient
@@ -363,6 +363,9 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
  - privacy: collection of personal data is changing or needs a change
    - tracking is essential to fight the virus (e.g. Singapore, South Korea). A vaccine is expected in 12-18 months (2021), on the short term there is no other solution. Without tracking, lockdown period will be longer, economic impact will be much bigger 
    - almost "need of tracking" > "need of protection personal data"
+ - hot trends in technology
+   - fight of delinquencies - e.g. to distribute correctly helps from the governement
+   - tracking and protection of personal data - eg empower community managers to expand tracking technologies to their members
    
    
 **Articles**
