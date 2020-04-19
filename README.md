@@ -421,5 +421,6 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 
 ## Deliveries in Trento
 
-https://www.notion.so/fcb0273cf5c74b8ca7435d8e1288eb36?v=3de55490066c45f7a97ce5d4ad7f62d6
+- https://www.notion.so/fcb0273cf5c74b8ca7435d8e1288eb36?v=3de55490066c45f7a97ce5d4ad7f62d6
+- https://www.giornaletrentino.it/cronaca/trento/e-adesso-la-spesa-arriva-a-casa-in-tutto-il-trentino-1.2301611
 
