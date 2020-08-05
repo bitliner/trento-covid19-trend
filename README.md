@@ -355,7 +355,7 @@ Data source: [Protezione civile](http://www.protezionecivile.gov.it/media-comuni
 **More recent data**
 
 - [2020-08-07][Travel][EasyJet Q2 EBITDA -320m (vs 2019 Q2 +174m )](https://www.ansa.it/sito/notizie/economia/2020/08/04/easyjet-covid-azzera-ricavi-trimestre-perdita-360-mln_ec4d061b-9383-4f8d-91ca-a2e1aed43c64.html)
-- [2020-08-07][Fashion][Prada Q!-Q2 -140m (=-40%)](https://www.ansa.it/sito/notizie/economia/2020/07/29/prada-semestre-in-perdita-per-180-milioni-ricavi-40_2987c1a0-0ca8-4984-a0c2-3004bac0c0da.html)
+- [2020-08-07][Fashion][Prada Q1-Q2 -140m (=-40%)](https://www.ansa.it/sito/notizie/economia/2020/07/29/prada-semestre-in-perdita-per-180-milioni-ricavi-40_2987c1a0-0ca8-4984-a0c2-3004bac0c0da.html)
 - [2020-08-07][Luxury Car][+571m, -40% compared to 2019](https://www.ansa.it/sito/notizie/economia/2020/08/03/ferrari-42-ricavi-netti-covid-dimezza-consegne_ca2dc3ff-bc05-4bea-b6a5-e8b65ced686e.html)
 
 **Key takeaways**
